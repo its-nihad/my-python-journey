@@ -1,4 +1,4 @@
-#To find total number of alphabet,digits,vowels,and words in a given sentance
+#To find total number of alphabets,digits,vowels,and words in a given sentance
 
 a=0
 d=0
